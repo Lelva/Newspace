@@ -25,7 +25,7 @@ public class EmployeeHours {
             {3, 7, 4, 8, 3, 8, 4},
             {6, 3, 5, 9, 2, 7, 9}};
         
-        System.out.println("Hello")
+        System.out.println("Hello");
         int total = 0;
         int [] weeklyHours = new int[workHours.length];
         for (int i = 0 ; i < workHours.length; i++){
